@@ -1,4 +1,4 @@
-# vue-cli-firebase
+# Firebase Pet Store Application
 
 ## Project setup
 ```
